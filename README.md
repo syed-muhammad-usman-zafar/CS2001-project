@@ -1,5 +1,5 @@
 # CS2001-project
-FAST NUCES || CS2001 Data Structures || Semester 3 Project
+
 1.The user should be able to control and track the movement of the cursor.
 2.The user can access, add and delete any part of the text.
 3.To add or delete a text, the user can take the cursor to that location (using the arrow keys) and perform the
